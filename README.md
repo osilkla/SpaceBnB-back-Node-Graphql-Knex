@@ -13,7 +13,7 @@
 
 ## Run:
 - Test: npm run test
-- Server: npm run dev
+- Server: npm run dev (run on :3000 so run before the frontend to choose another port for frontend ex:3001)
 
 ## Example query:
 ```
